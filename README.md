@@ -12,6 +12,7 @@ Vagrant 是基於 Infrastructure as Code (IaC) 概念的虛擬環境操作工具
 + 安裝
     - [Docker for Windows](./docs/docker-for-windows.md)
     - [Docker for Linux](./docs/docker-for-windows.md)
+    - [Docker run GPU on Windows](./docs/docker-run-GPU-on-windows.md)
 + [設定 Dockerfile](./docs/configure-dockerfile.md)
 + [設定 docker-compose](./docs/configure-dockerfile.md)
 + [技術議題](./docs/issue.md)
